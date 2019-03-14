@@ -38,8 +38,8 @@ Using a single folder to contain a multiple set of folders containing the images
 
 The main window:
 
-![Imgur](https://i.imgur.com/6CCcGWu.png)
+![Imgur](https://i.imgur.com/6CCcGWul.png)
 
 Settings window:
 
-![Imgur](https://i.imgur.com/wRZPzwQ.png)
+![Imgur](https://i.imgur.com/wRZPzwQl.png)
